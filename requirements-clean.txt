@@ -1,0 +1,18 @@
+# Core data science packages
+pandas>=2.0.0
+numpy>=1.26.0
+
+# Soccer data package
+soccerdata>=1.8.0
+
+# Web scraping and HTTP requests
+requests>=2.23.0
+lxml>=4.9.0
+selenium>=4.9.0
+
+# Data processing utilities
+python-dateutil>=2.8.0
+pytz>=2020.1
+
+# Development and build tools
+setuptools>=80.0.0
